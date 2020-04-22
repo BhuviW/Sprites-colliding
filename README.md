@@ -1,2 +1,2 @@
-# Sprites-colliding
-One moving and one fixed rectangle colliding 
+# p5.play-boilerplate
+Boiler plate for p5.play
